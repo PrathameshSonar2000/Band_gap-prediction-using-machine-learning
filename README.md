@@ -1,1 +1,1 @@
-# Band_gap-prediction-using-machine-learning
+# Band_gap prediction using machine learning
